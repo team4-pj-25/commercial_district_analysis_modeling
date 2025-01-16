@@ -1,0 +1,16 @@
+# Python 가상 환경
+venv/
+kt_proj_202501/
+
+# Python 빌드 파일
+*.pyc
+__pycache__/
+
+# 시스템 파일
+*.log
+*.DS_Store
+
+# Python 패키지 파일
+*.whl
+*.dist-info/
+*.egg-info/
